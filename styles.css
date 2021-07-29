@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(0, 21, 251);
+  }
+
+  p {
+      color:red;
+    font-family: verdana;
+    font-size: 20px;
+  }
