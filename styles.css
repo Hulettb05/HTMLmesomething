@@ -3,7 +3,17 @@ body {
   }
 
   p {
+    margin: 50px;
       color:red;
     font-family: verdana;
     font-size: 20px;
+  }
+  
+  h2 {
+    background-color: gray;
+    padding: top;
+    color: rgb(100, 100, 255);
+  }
+  a{
+    background-color: brown;
   }
